@@ -1,2 +1,5 @@
 # breadboardadapter-MCP1703-SOT23
- Adapter-PCB MCP1703-SOT23 for breadboard-usage
+ 
+ This PCB is used to use MSP1703-SOT23 chips on breadboards. It is only a small adapter board.
+
+![fertige PCB's](https://octodex.github.com/images/yaktocat.png)
